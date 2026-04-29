@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 I am Mahendra Varma Kare, an aspiring AI Generalist with a strong foundation in machine learning, data analysis, and software development. I focus on building intelligent systems that solve real-world problems, with hands-on experience in developing predictive models and deploying ML-powered applications using tools like Streamlit. Skilled in Python and core computer science fundamentals, I enjoy working across the AI stack—from data preprocessing and model building to deployment and optimization. Passionate about exploring modern AI techniques, including deep learning and generative AI, while continuously improving system performance and scalability.<br><br>Core Languages: Python, Java, C/C++, JavaScript<br>AI & Machine Learning: Scikit-learn, Pandas, NumPy, Model Building, Data Preprocessing, Feature Engineering<br>Frameworks & Tools: Streamlit, Flask (basic), Git/GitHub<br>Databases: MySQL, SQLite<br>Concepts: Machine Learning, Data Structures & Algorithms, DBMS, OOP, Operating Systems<br>Areas of Interest: Generative AI, Deep Learning, NLP, AI Applications
 
 
@@ -19,10 +19,7 @@ I am Mahendra Varma Kare, an aspiring AI Generalist with a strong foundation in 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mahendra3421&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahendra3421/mahendra3421/output/pacman-contribution-graph-dark.svg">
